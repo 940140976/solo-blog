@@ -10,6 +10,9 @@ JIANG 的个人博客
 
 ### 最新
 
+* [个人总结](http://www.jiangjingyao.top/articles/2019/09/27/1569592237790.html)
+* [安装MySQL中遇到的问题](http://www.jiangjingyao.top/articles/2019/09/27/1569577087279.html)
+* [java环境变量的配置](http://www.jiangjingyao.top/articles/2019/09/27/1569572760512.html)
 * [我在 GitHub 上的开源项目](http://www.jiangjingyao.top/my-github-repos)
 * [世界，你好！](http://www.jiangjingyao.top/hello-solo)
 
