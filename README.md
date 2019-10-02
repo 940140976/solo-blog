@@ -10,7 +10,7 @@ JIANG 的个人博客
 
 ### 最新
 
-* [不迷茫-我的大学](http://www.jiangjingyao.top/articles/2019/09/30/1569854479854.html)
+* [一切才刚开始-我的大学](http://www.jiangjingyao.top/articles/2019/09/30/1569854479854.html)
 * [9_21算法](http://www.jiangjingyao.top/articles/2019/09/28/1569661418340.html)
 * [非技术类文章](http://www.jiangjingyao.top/articles/2019/09/28/1569661375899.html)
 * [未来可期-我的大学](http://www.jiangjingyao.top/articles/2019/09/27/1569592237790.html)
