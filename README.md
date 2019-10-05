@@ -10,7 +10,6 @@ JIANG | BLOG
 
 ### 最新
 
-* [CentOS7.3下Nginx的安装](http://www.jiangjingyao.top/articles/2019/10/04/1570182540883.html)
 * [一切才刚开始-我的大学](http://www.jiangjingyao.top/articles/2019/09/30/1569854479854.html)
 * [9_21算法](http://www.jiangjingyao.top/articles/2019/09/28/1569661418340.html)
 * [未来可期-我的大学](http://www.jiangjingyao.top/articles/2019/09/27/1569592237790.html)
