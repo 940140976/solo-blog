@@ -10,7 +10,6 @@ JIANG | BLOG
 
 ### 最新
 
-* [过去与未来--告别](http://www.jiangjingyao.top/articles/2019/10/07/1570454781713.html)
 * [行者无疆](http://www.jiangjingyao.top/articles/2019/10/07/1570454422122.html)
 * [学习使我快乐-我的大学](http://www.jiangjingyao.top/articles/2019/10/07/1570435394143.html)
 * [数据结构C语言实现（二）线性表](http://www.jiangjingyao.top/articles/2019/10/07/1570412140078.html)
