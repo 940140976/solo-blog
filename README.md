@@ -10,7 +10,7 @@ JIANG | BLOG
 
 ### 最新
 
-* [第七周总结](http://www.jiangjingyao.top/articles/2019/10/21/1571625955463.html)
+* [WEEK07](http://www.jiangjingyao.top/articles/2019/10/21/1571625955463.html)
 * [java中交换两个变量值的方法](http://www.jiangjingyao.top/articles/2019/10/17/1571316898484.html)
 * [排序算法](http://www.jiangjingyao.top/articles/2019/10/17/1571314098105.html)
 * [学习使我快乐-我的大学](http://www.jiangjingyao.top/articles/2019/10/07/1570435394143.html)
